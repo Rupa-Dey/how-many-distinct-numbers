@@ -1,0 +1,1 @@
+{"name":"Local: partitions","url":"g:\\code\\partitions.cpp","tests":[{"id":1650899556275,"input":"5 5 \n3 2 1 5 4\n","output":""},{"id":1650900285483,"input":"3 2\n2 1 3\n","output":""},{"id":1650900360398,"input":"7 3\n2 7 3 1 5 4 6\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\code\\partitions.cpp","group":"local","local":true}
